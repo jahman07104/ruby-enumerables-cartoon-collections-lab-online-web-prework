@@ -1,5 +1,5 @@
 def roll_call_dwarves=["Doc","Dopey","Bashful,"Grumpy"].each_with_index
-puts 
+puts "dwarf roll call"
   
 end
 
