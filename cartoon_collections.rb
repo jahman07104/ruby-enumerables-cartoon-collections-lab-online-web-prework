@@ -6,8 +6,10 @@ end
 def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].collect { summon_captain_planet|summon_captain_planet|.capitalize}!
 end
 
-def long_planeteer_calls=["puff","go","two"]
-  # Your code here
+def long_planeteer_calls=[]
+short+words=["puff","go","two"]
+assorted_words=["two,"go",""industriouos","bop"],
+  
 end
 
 def find_the_cheese# code an argument here
