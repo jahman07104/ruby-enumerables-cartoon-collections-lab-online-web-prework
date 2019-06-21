@@ -6,7 +6,7 @@ end
 def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].collect { summon_captain_planet|summon_captain_planet|.capitalize}!
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls=["puff","go","two"]
   # Your code here
 end
 
