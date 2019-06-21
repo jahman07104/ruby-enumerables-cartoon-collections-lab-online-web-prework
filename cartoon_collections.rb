@@ -3,7 +3,7 @@ puts "dwarf roll call"
   
 end
 
-def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].map
+def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].collect summon_captain_planet
   # Your code here
 end
 
