@@ -3,7 +3,7 @@ puts "dwarf roll call"
   
 end
 
-def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].collect { summon_captain_planet|summon_captain_planet|
+def summon_captain_planet=["Earth","Wind","Fire","Water","Heart"].collect { summon_captain_planet|summon_captain_planet|.capitalize
   # Your code here
 end
 
